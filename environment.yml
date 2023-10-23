@@ -1,0 +1,19 @@
+name: immo_project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - matplotlib
+  - jupyter
+  - beautifulsoup4
+  - seaborn
+  - scikit-learn
+  - numpy
+  - pandas
+  - ipykernel
+  - plotly
+  - pathlib
+  - requests
+  - pip
+  - mysql-connector-python
+  - sqlite
