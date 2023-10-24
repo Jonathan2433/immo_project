@@ -17,3 +17,10 @@ dependencies:
   - pip
   - mysql-connector-python
   - sqlite
+  - sphinx
+  -   - pytest
+  ## to install next :
+  - sphinx-automodule
+  - sphinx-rtd-theme
+  - sphinx_autodoc_typehints
+
