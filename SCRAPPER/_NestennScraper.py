@@ -14,6 +14,9 @@ class NestennScraper:
         base_url (str): URL de base pour initier le scraping.
     """
 
+    # to do
+    # make verification
+
     def __init__(self, base_url: str):
         self.base_url = base_url
 
