@@ -18,9 +18,9 @@ dependencies:
   - mysql-connector-python
   - sqlite
   - sphinx
-  -   - pytest
+  - pytest
+  - sphinx-rtd-theme
   ## to install next :
   - sphinx-automodule
-  - sphinx-rtd-theme
   - sphinx_autodoc_typehints
 
